@@ -1,0 +1,31 @@
+_repo: Annals-of-the-Early-Caliphate-b-From-the-Death-of-Mahomet-to-the-Omeyyad-and-Abbaside-Dynasti__72386
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Muir, William, Sir
+    alias: Muir, Sir William
+    birthdate: 1819
+    deathdate: 1905
+    gutenberg_agent_id: '7079'
+    url: http://www.gutenberg.org/2009/agents/7079
+    wikipedia: https://en.wikipedia.org/wiki/William_Muir
+description: ''
+gutenberg_issued: '2023-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72386'
+language: en
+pgterms:marc905: 20071103010646muir
+pgterms:marc906: '1883'
+pgterms:marc907: NL
+production_note: Fritz Ohrenschall, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aAmsterdam :$bOriental Press, $c1883, reprint 1968.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Annals of the Early Caliphate : $b From the Death of Mahomet to the Omeyyad
+  and Abbaside Dynasties A.H. XI - LXI (A.D. 632 - 680) From Original Sources'
+url: http://www.gutenberg.org/ebooks/72386
